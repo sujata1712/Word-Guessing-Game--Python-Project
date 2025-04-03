@@ -1,6 +1,6 @@
 # Word-Guessing-Game--Python-Project
-# Word Guessing Game 🎮  
 
+#----------------Word Guessing Game 🎮--------------------
 A fun command-line word guessing game where you predict letters to uncover a hidden word! 🔠  
 Can you guess the mystery word before running out of attempts? 🕵️  
 
